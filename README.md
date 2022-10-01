@@ -1,7 +1,7 @@
 <!------------------------------------------------- Repo Cover -------------------------------------------------------------->
 
 <div align="center">
-    <img src="https://github.com/utkarsh006/Eazy-Android/blob/main/.github/IMG/banner.gif" width="550" height="250"/>
+    <img src="https://github.com/devashishpant89/CyberSecurityTutorials/blob/main/readme_resource/banner.png" width="550" height="250"/>
 </div>  
 
 ##
